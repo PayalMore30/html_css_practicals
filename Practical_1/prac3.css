@@ -1,0 +1,31 @@
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.navbar{
+    font-family:"Gill Sans", sans-serif;
+    display:flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+    height: 5em;
+    background-color:rgb(192, 206, 224);
+}
+h1{
+    width: 30em;
+}
+.container{
+    background: url("lapimage.jpeg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    height: 40.5em;
+}
+.line{
+    font-size: 3em;
+    font-family:"Gill Sans", sans-serif;
+    position: absolute;
+    top:10em;
+    left:1em;
+}

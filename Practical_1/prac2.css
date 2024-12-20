@@ -1,0 +1,33 @@
+.navbar{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+    height: 4.5em;
+    background-color:rgb(242, 176, 154);
+}
+h1{
+    width: 30em;
+}
+.container{
+    display:flex;
+    flex-direction: row;
+    justify-content: center;
+    
+    height: 41em;
+    background-color:rgb(202, 226, 229);
+}
+.box{
+    margin-top:8em;
+    background-color:rgb(202, 197, 197);
+    width: 22em;
+    height: 15em;
+}
+p{
+    margin-top: 6em;
+    margin-left: 4em;
+    font-size: 1.5em;
+    width: 20em;
+    height: 15em;
+}
+
